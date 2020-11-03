@@ -6,9 +6,12 @@
 Um server foi criado para carregar o conteúdo stático e ele está configurado para fornecer os dados através da porta 8080. Para iniciar o servidor, digite no terminal, dentro do diretório da aplicação:
 
 Usando o gerenciador de pacotes NPM:
-	> npm start
+
+ `> npm start`
+
 Usando o gerenciador de pacotes YARN:
-	> yarn start
+
+`> yarn start`
 
 OBS: é necessário que um desses gerenciadores de pacotes esteja instalado no computador.
 
